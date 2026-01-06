@@ -58,7 +58,7 @@ const Head = () => {
           alt="menu"
           src="https://png.pngtree.com/element_our/20190601/ourmid/pngtree-menu-icon-image_1344445.jpg"
         />
-        <a href="/">
+        <a href="/youtubeclone">
           <img
             className="h-8 mx-2"
             alt="youtube-logo"
