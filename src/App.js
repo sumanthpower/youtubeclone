@@ -16,11 +16,11 @@ import WatchPage from "./components/WatchPage";
 
 const appRouter = createBrowserRouter([
   {
-    path: "/",
+    path: "/youtubeclone",
     element: <Body />,
     children: [
       {
-        path: "/",
+        path: "/youtubeclone",
         element: <MainContainer />,
       },
       {
